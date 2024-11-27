@@ -22,7 +22,7 @@ const Countries = () => {
 
   return (
     <div className="countries">
-      <h1 className="h1">World kingdoms</h1>
+      <h1 className="h1">World Kingdoms</h1>
       <select value={selectedCountry} onChange={handleCountryChange}>
         <option value="">Select a country</option>
         {countries.map((country) => (

@@ -1,4 +1,4 @@
-# Lab 7 World Kingdoms
+# Lab 7 Worlds Kingdoms
 
 ## Created By
 - Zalida Khan
